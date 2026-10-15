@@ -37,4 +37,4 @@ an optional desktop one.
 The demo keeps its own saves (`%LOCALAPPDATA%\AVENGIS\Rebounded Demo`) and never touches anything else. Uninstall it
 from Windows Settings > Apps; it asks before removing your saves.
 
-Made by AVENGIS. Feedback is truly appreciated.
+Made by AVENGIS. Any feedback is truly appreciated: thank you for playing!
