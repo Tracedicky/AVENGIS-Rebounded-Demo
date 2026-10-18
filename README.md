@@ -3,37 +3,42 @@
 An original arcade brick breaker with real physics, machinery, two-screen stages and a crew of heroes, each with an
 ability of their own.
 
+**The full game is coming soon. [Watch the official trailer.](https://www.youtube.com/watch?v=e89CBXxxUZc)**
+
 ![The demo's menu](menu.png)
 
 ## Download and play (Windows)
 
 **[Download the demo installer](https://github.com/Tracedicky/AVENGIS-Rebounded-Demo/releases/latest)**: open the
-latest release and click `AVENGIS-Rebounded-Demo-0.10.0-Setup.exe`, then run it. Already have the old demo? This
+latest release and click `AVENGIS-Rebounded-Demo-0.11.0-Setup.exe`, then run it. Already have the old demo? This
 upgrades it in place, saves and all.
 
 Windows may show a blue "Windows protected your PC" box, because the installer isn't code-signed. Click
 **More info**, then **Run anyway**. It installs just for you (no administrator needed), with Start menu shortcuts and
 an optional desktop one.
 
-![The Crane Climb, in Coppercloud Harbour](play.png)
+![A demo run, round one: Glassroot Gardens](play.png)
 
 ## What's in it
 
-- **World Tour:** a two-screen stage from each of the five worlds, with its own machinery.
-- **Wardens:** the Dockmaster's whole fight, and a taste of Slagmaw, Brinejaw and Thunderhead.
-- **The Flood:** ride the rising flood up from the Emberline furnace into Glassroot.
-- **Expedition:** three floors of the route (pick your paths, catch scrap, fit parts), then the workshop.
-- **Crew:** fly as Juno, Rowan or Nell.
+- **The demo run:** five rounds dealt from the whole game, a new mix every time: a world's stage, then Endless,
+  Mosaic and the Flood in a shuffled order, then a warden to finish. Your score and lives carry through, and the best
+  runs go on the demo's own high-score table.
+- **Free play:** try any part on its own: First Flight (the basics), a stage from every world, the wardens, Endless,
+  Mosaic, the Flood and a taste of the Expedition.
+- **Two players** on one PC: the demo run in co-op, versus against the CPU or a friend, and Twin Colours.
+- **The crew:** all five heroes, each with an ability of their own.
+- **Six stamps** to collect along the way.
 
-## What's new in 0.10.0
+## What's new in 0.11.0
 
-- **The Flood** starts gently and builds up steadily, lid by lid.
-- **Controllers:** the on-screen hints show your pad's own buttons, and the pause menu is a list you pick from.
-- **Smoother:** the stutters on the menus and in The Flood are gone.
-- **Sharper window:** it opens at the biggest crisp size for your screen, stays sharp on scaled displays, and can
-  be resized.
-- **Discord:** friends see you playing REBOUNDED, with the world and hero you're on (turn it off in Options).
-- **Fresh art:** the power-ups and every hero's ability on the deck, redrawn and animated.
+- **A whole new demo**, built around the demo run: a different game every time you play.
+- **All five heroes** to fly: Rook and Mira have joined Juno, Rowan and Nell.
+- **Two players**: co-op, versus and Twin Colours, side by side on one PC.
+- **Endless and Mosaic**, new to the demo.
+- **The last bricks aid:** a board's last few bricks are marked, and if one hides from you, your next return is shown
+  (turn it off in Options).
+- **Music from the trailer** on the menus.
 
 ## Controls
 
@@ -44,6 +49,9 @@ an optional desktop one.
 | Boost | hold X | X |
 | Pause menu | P or Esc | Start |
 | Full screen | F11 | |
+
+Two players on one keyboard: player one steers with A / D and serves with Z or Space; player two uses the arrows and
+Enter. A second controller works too.
 
 The demo keeps its own saves (`%LOCALAPPDATA%\AVENGIS\Rebounded Demo`) and never touches anything else. Uninstall it
 from Windows Settings > Apps; it asks before removing your saves.
