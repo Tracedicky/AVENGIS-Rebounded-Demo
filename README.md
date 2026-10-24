@@ -1,23 +1,23 @@
 # REBOUNDED: Demo
 
-An original arcade brick breaker with real physics, machinery, two-screen stages and a crew of heroes, each with an
-ability of their own.
+An original arcade brick breaker with living water, two-screen stages, wardens that fight back and a crew of heroes,
+each with an ability of their own.
 
-**The full game is coming soon. [Watch the official trailer.](https://www.youtube.com/watch?v=e89CBXxxUZc)**
+**The full game is coming soon. [Watch the official trailer.](https://www.youtube.com/watch?v=m6izhJHy3II)**
 
 ![The demo's menu](menu.png)
 
 ## Download and play (Windows)
 
 **[Download the demo installer](https://github.com/Tracedicky/AVENGIS-Rebounded-Demo/releases/latest)**: open the
-latest release and click `AVENGIS-Rebounded-Demo-0.11.0-Setup.exe`, then run it. Already have the old demo? This
+latest release and click `AVENGIS-Rebounded-Demo-0.12.0-Setup.exe`, then run it. Already have the old demo? This
 upgrades it in place, saves and all.
 
 Windows may show a blue "Windows protected your PC" box, because the installer isn't code-signed. Click
 **More info**, then **Run anyway**. It installs just for you (no administrator needed), with Start menu shortcuts and
 an optional desktop one.
 
-![A demo run, round one: Glassroot Gardens](play.png)
+![A demo run, round one: Greenhouse Row, Glassroot Gardens](play.png)
 
 ## What's in it
 
@@ -30,7 +30,15 @@ an optional desktop one.
 - **The crew:** all five heroes, each with an ability of their own.
 - **Six stamps** to collect along the way.
 
-## What's new in 0.11.0
+## What's new in 0.12.0
+
+- **Living water in every stage:** the left valve fills it, the right one drains it, and your deck rides it up.
+- **Waterfalls:** fine falls pour from taps in every world, and your ball swishes through them.
+- **Two screens tall:** every stage now has a second screen, and each world ends in an escape from the rising flood.
+- **Living wardens:** the bosses are living things now, each with three shapes.
+- **Every brick redrawn**, First Flight and the early stages opened up, and droplets that look like droplets.
+
+## What was new in 0.11.0
 
 - **A whole new demo**, built around the demo run: a different game every time you play.
 - **All five heroes** to fly: Rook and Mira have joined Juno, Rowan and Nell.
