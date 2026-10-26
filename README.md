@@ -10,7 +10,7 @@ each with an ability of their own.
 ## Download and play (Windows)
 
 **[Download the demo installer](https://github.com/Tracedicky/AVENGIS-Rebounded-Demo/releases/latest)**: open the
-latest release and click `AVENGIS-Rebounded-Demo-0.13.1-Setup.exe`, then run it. Already have the old demo? This
+latest release and click `AVENGIS-Rebounded-Demo-0.13.2-Setup.exe`, then run it. Already have the old demo? This
 upgrades it in place, saves and all.
 
 Windows may show a blue "Windows protected your PC" box, because the installer isn't code-signed. Click
@@ -30,7 +30,13 @@ an optional desktop one.
 - **The crew:** all five heroes, each with an ability of their own.
 - **Six stamps** to collect along the way.
 
-## What's new in 0.13.1
+## What's new in 0.13.2
+
+- **Every climb's wall moves:** drifting leaves in the Canopy, a chain conveyor up the Smelter Stack, lock gates in
+  the Tide Lock, and Endless's escape roofs too.
+- **The Crane Climb no longer slows down** as it goes on.
+
+## What was new in 0.13.1
 
 - **The Crane Climb's wall moves:** three gapped rows sliding opposite ways, so the way out is a gap to time.
 - **Endless:** every way's world is drawn at random, and a round's two ways are never the same world.
