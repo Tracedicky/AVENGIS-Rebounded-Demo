@@ -10,7 +10,7 @@ each with an ability of their own.
 ## Download and play (Windows)
 
 **[Download the demo installer](https://github.com/Tracedicky/AVENGIS-Rebounded-Demo/releases/latest)**: open the
-latest release and click `AVENGIS-Rebounded-Demo-0.13.4-Setup.exe`, then run it. Already have the old demo? This
+latest release and click `AVENGIS-Rebounded-Demo-0.13.5-Setup.exe`, then run it. Already have the old demo? This
 upgrades it in place, saves and all.
 
 Windows may show a blue "Windows protected your PC" box, because the installer isn't code-signed. Click
@@ -30,7 +30,13 @@ an optional desktop one.
 - **The crew:** all five heroes, each with an ability of their own.
 - **Six stamps** to collect along the way.
 
-## What's new in 0.13.4
+## What's new in 0.13.5
+
+- **Easier to read in play:** your deck has a dark outline, so it stands out on any water.
+- **A calmer sky:** the backdrop and the clouds between the two screens are toned toward the sky, so they're less
+  busy. The warm worlds keep their warmth.
+
+## What was new in 0.13.4
 
 - **Versus reworked:** two modes. FEED is the press feeding bricks out, as before; FRENZY has two bars of bricks
   sliding up and down the table, broken ones growing back, and power bricks flickering in and out. Each comes at
