@@ -10,7 +10,7 @@ each with an ability of their own.
 ## Download and play (Windows)
 
 **[Download the demo installer](https://github.com/Tracedicky/AVENGIS-Rebounded-Demo/releases/latest)**: open the
-latest release and click `AVENGIS-Rebounded-Demo-0.13.2-Setup.exe`, then run it. Already have the old demo? This
+latest release and click `AVENGIS-Rebounded-Demo-0.13.3-Setup.exe`, then run it. Already have the old demo? This
 upgrades it in place, saves and all.
 
 Windows may show a blue "Windows protected your PC" box, because the installer isn't code-signed. Click
@@ -30,7 +30,17 @@ an optional desktop one.
 - **The crew:** all five heroes, each with an ability of their own.
 - **Six stamps** to collect along the way.
 
-## What's new in 0.13.2
+## What's new in 0.13.3
+
+- **The screens hand over to each other:** after AVENGIS presents, a wall of the world's bricks builds up and the
+  hero's ball smashes it open; the world's own water floods in and out of play; the menus slide.
+- **Versus** calls its points on animated plates and ends on a full results screen: the match in numbers, then
+  REMATCH, TABLES or MENU.
+- **The music never overlaps:** each tune eases out before the next one starts.
+- **Every brick can be reached again:** the stone stairs in the top corners no longer block the way up beside a
+  roofed house (the Potting Shed, the Crucible and three more).
+
+## What was new in 0.13.2
 
 - **Every climb's wall moves:** drifting leaves in the Canopy, a chain conveyor up the Smelter Stack, lock gates in
   the Tide Lock, and Endless's escape roofs too.
