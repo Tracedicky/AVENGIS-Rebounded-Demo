@@ -10,7 +10,7 @@ each with an ability of their own.
 ## Download and play (Windows)
 
 **[Download the demo installer](https://github.com/Tracedicky/AVENGIS-Rebounded-Demo/releases/latest)**: open the
-latest release and click `AVENGIS-Rebounded-Demo-0.13.3-Setup.exe`, then run it. Already have the old demo? This
+latest release and click `AVENGIS-Rebounded-Demo-0.13.4-Setup.exe`, then run it. Already have the old demo? This
 upgrades it in place, saves and all.
 
 Windows may show a blue "Windows protected your PC" box, because the installer isn't code-signed. Click
@@ -30,7 +30,16 @@ an optional desktop one.
 - **The crew:** all five heroes, each with an ability of their own.
 - **Six stamps** to collect along the way.
 
-## What's new in 0.13.3
+## What's new in 0.13.4
+
+- **Versus reworked:** two modes. FEED is the press feeding bricks out, as before; FRENZY has two bars of bricks
+  sliding up and down the table, broken ones growing back, and power bricks flickering in and out. Each comes at
+  TRIVIAL, NORMAL or INTENSE.
+- **Every hero brings their own power** on C: Juno's return pierces every brick, Rook's bursts a cluster, Rowan
+  catches and aims, Mira revs it up, Nell's barrier saves a point.
+- **The CPU** no longer locks on to the ball so tightly.
+
+## What was new in 0.13.3
 
 - **The screens hand over to each other:** after AVENGIS presents, a wall of the world's bricks builds up and the
   hero's ball smashes it open; the world's own water floods in and out of play; the menus slide.
