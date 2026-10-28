@@ -1,109 +1,42 @@
 # REBOUNDED: Demo
 
-An original arcade brick breaker with living water, two-screen stages, wardens that fight back and a crew of heroes,
-each with an ability of their own.
+REBOUNDED is a brick breaker I'm making as AVENGIS. You fly a deck with one of five heroes, each from a different
+world, and each world ends with a warden to beat. Water rises and falls in every stage, and your deck rides it.
 
-**The full game is coming soon. [Watch the official trailer.](https://www.youtube.com/watch?v=m6izhJHy3II)**
+The full game is still being made. [Here's the trailer.](https://www.youtube.com/watch?v=m6izhJHy3II)
 
 ![The demo's menu](menu.png)
 
 ## Download and play (Windows)
 
-**[Download the demo installer](https://github.com/Tracedicky/AVENGIS-Rebounded-Demo/releases/latest)**: open the
-latest release and click `AVENGIS-Rebounded-Demo-0.14.0-Setup.exe`, then run it. Already have the old demo? This
-upgrades it in place, saves and all.
+[Open the latest release](https://github.com/Tracedicky/AVENGIS-Rebounded-Demo/releases/latest) and download
+`AVENGIS-Rebounded-Demo-0.15.0-Setup.exe`, then run it. If you already have the demo, it updates it and keeps your
+saves.
 
-Windows may show a blue "Windows protected your PC" box, because the installer isn't code-signed. Click
-**More info**, then **Run anyway**. It installs just for you (no administrator needed), with Start menu shortcuts and
-an optional desktop one.
+Windows may show a blue "Windows protected your PC" box, because the installer isn't signed. Click **More info**,
+then **Run anyway**. It installs just for you and doesn't need an administrator.
 
-![A demo run, round one: Greenhouse Row, Glassroot Gardens](play.png)
+![Round one of a demo run, in Glassroot Gardens](play.png)
 
 ## What's in it
 
-- **The demo run:** five rounds dealt from the whole game, a new mix every time: a world's stage, then Endless,
-  Mosaic and the Flood in a shuffled order, then a warden to finish. Your score and lives carry through, and the best
-  runs go on the demo's own high-score table.
-- **Free play:** try any part on its own: First Flight (the basics), a stage from every world, the wardens, Endless,
-  Mosaic, the Flood and a taste of the Expedition.
-- **Two players** on one PC: the demo run in co-op, versus against the CPU or a friend, and Twin Colours.
-- **The crew:** all five heroes, each with an ability of their own.
-- **Six stamps** to collect along the way.
+The demo run is five rounds picked from the whole game, a different mix each time: a stage from one of the worlds,
+then Endless, Mosaic and the Flood in a random order, then a warden. Your score and lives carry through, and the best
+runs go on the demo's high-score table. There are six stamps to collect too.
 
-## What's new in 0.14.0
+You can also play any part on its own: the tutorial, a stage from each world, the wardens, Endless, Mosaic, the Flood
+and part of the Expedition. All five heroes are playable, and two people can play on one PC (co-op, versus or Twin
+Colours).
 
-- **The Brickwork Look:** the whole interface is rebuilt from the game's own bricks and art. Every window, card and
-  box is cut into a wall of the world's bricks, the text is REBOUNDED's own typeface (gold for what matters), and
-  nothing is drawn in plain lines.
-- **Call-outs** in play are a word or two now, and drop in letter by letter.
-- **Every hint shows its keys as keys**, or your pad's buttons on a pad.
+## What's new in 0.15.0
 
-## What was new in 0.13.6
+- Each menu is set in one of the worlds, in its bricks and under its own sky.
+- In play, the right-hand panel shows the world's three medals and how close the next one is.
+- A new look for the Clockwork Heart's chamber, and new medals.
+- The crew keep time on the Sound Test while you listen.
 
-- **Emberline's clouds** between the two screens are warm smoke now, to match its sunset.
-
-## What was new in 0.13.5
-
-- **Easier to read in play:** your deck has a dark outline, so it stands out on any water.
-- **A calmer sky:** the backdrop and the clouds between the two screens are toned toward the sky, so they're less
-  busy. The warm worlds keep their warmth.
-
-## What was new in 0.13.4
-
-- **Versus reworked:** two modes. FEED is the press feeding bricks out, as before; FRENZY has two bars of bricks
-  sliding up and down the table, broken ones growing back, and power bricks flickering in and out. Each comes at
-  TRIVIAL, NORMAL or INTENSE.
-- **Every hero brings their own power** on C: Juno's return pierces every brick, Rook's bursts a cluster, Rowan
-  catches and aims, Mira revs it up, Nell's barrier saves a point.
-- **The CPU** no longer locks on to the ball so tightly.
-
-## What was new in 0.13.3
-
-- **The screens hand over to each other:** after AVENGIS presents, a wall of the world's bricks builds up and the
-  hero's ball smashes it open; the world's own water floods in and out of play; the menus slide.
-- **Versus** calls its points on animated plates and ends on a full results screen: the match in numbers, then
-  REMATCH, TABLES or MENU.
-- **The music never overlaps:** each tune eases out before the next one starts.
-- **Every brick can be reached again:** the stone stairs in the top corners no longer block the way up beside a
-  roofed house (the Potting Shed, the Crucible and three more).
-
-## What was new in 0.13.2
-
-- **Every climb's wall moves:** drifting leaves in the Canopy, a chain conveyor up the Smelter Stack, lock gates in
-  the Tide Lock, and Endless's escape roofs too.
-- **The Crane Climb no longer slows down** as it goes on.
-
-## What was new in 0.13.1
-
-- **The Crane Climb's wall moves:** three gapped rows sliding opposite ways, so the way out is a gap to time.
-- **Endless:** every way's world is drawn at random, and a round's two ways are never the same world.
-- **No stage loses bricks before you serve:** the water a stage starts with breaks nothing until it has come to rest.
-
-## What was new in 0.13.0
-
-- **Stone stairs:** every tap now spills down a stair in its world's own stone, and the basins fill three times as
-  fast.
-- **The conveyor bar** lets the water run through its gaps instead of walling it off.
-- **The falls glimmer**, the R capsule's **SURGE** pours in a fill, and the hints and tips have been put right
-  throughout.
-
-## What was new in 0.12.0
-
-- **Living water in every stage:** the left valve fills it, the right one drains it, and your deck rides it up.
-- **Waterfalls:** fine falls pour from taps in every world, and your ball swishes through them.
-- **Two screens tall:** every stage now has a second screen, and each world ends in an escape from the rising flood.
-- **Living wardens:** the bosses are living things now, each with three shapes.
-- **Every brick redrawn**, First Flight and the early stages opened up, and droplets that look like droplets.
-
-## What was new in 0.11.0
-
-- **A whole new demo**, built around the demo run: a different game every time you play.
-- **All five heroes** to fly: Rook and Mira have joined Juno, Rowan and Nell.
-- **Two players**: co-op, versus and Twin Colours, side by side on one PC.
-- **Endless and Mosaic**, new to the demo.
-- **The last bricks aid:** a board's last few bricks are marked, and if one hides from you, your next return is shown
-  (turn it off in Options).
-- **Music from the trailer** on the menus.
+Earlier updates added the rising water, the two-screen stages, the living wardens, the new Versus modes and
+smoother changes between screens.
 
 ## Controls
 
@@ -112,16 +45,20 @@ an optional desktop one.
 | Steer | arrows, WASD or the mouse | stick or d-pad |
 | Serve, and your hero's ability | Z, Space or click | A |
 | Boost | hold X | X |
-| Pause menu | P or Esc | Start |
+| Pause | P or Esc | Start |
 | Full screen | F11 | |
 
-Two players on one keyboard: player one steers with A / D and serves with Z or Space; player two uses the arrows and
-Enter. A second controller works too.
+Two players on one keyboard: player one uses A / D and Z, player two uses the arrows and Enter. A second controller
+works too.
 
-The demo keeps its own saves (`%LOCALAPPDATA%\AVENGIS\Rebounded Demo`) and never touches anything else. Uninstall it
-from Windows Settings > Apps; it asks before removing your saves.
+## Saves, uninstalling and crashes
 
-If it ever crashes, it says so on screen and saves a report in `%LOCALAPPDATA%\AVENGIS\Rebounded Demo\logs`
-(closing that screen opens the folder). Please send the report over: it shows exactly what went wrong.
+The demo keeps its saves in `%LOCALAPPDATA%\AVENGIS\Rebounded Demo` and doesn't touch anything else. To uninstall,
+go to Windows Settings > Apps. It asks before deleting your saves.
 
-Made by AVENGIS. Any feedback is truly appreciated: thank you for playing!
+If it crashes, it saves a report in `%LOCALAPPDATA%\AVENGIS\Rebounded Demo\logs`. Please send it to me, because it
+shows what went wrong.
+
+Thanks for playing, and tell me what you think.
+
+Aven (AVENGIS)
