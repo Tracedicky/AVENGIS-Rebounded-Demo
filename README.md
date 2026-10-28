@@ -10,7 +10,7 @@ each with an ability of their own.
 ## Download and play (Windows)
 
 **[Download the demo installer](https://github.com/Tracedicky/AVENGIS-Rebounded-Demo/releases/latest)**: open the
-latest release and click `AVENGIS-Rebounded-Demo-0.13.6-Setup.exe`, then run it. Already have the old demo? This
+latest release and click `AVENGIS-Rebounded-Demo-0.14.0-Setup.exe`, then run it. Already have the old demo? This
 upgrades it in place, saves and all.
 
 Windows may show a blue "Windows protected your PC" box, because the installer isn't code-signed. Click
@@ -30,7 +30,15 @@ an optional desktop one.
 - **The crew:** all five heroes, each with an ability of their own.
 - **Six stamps** to collect along the way.
 
-## What's new in 0.13.6
+## What's new in 0.14.0
+
+- **The Brickwork Look:** the whole interface is rebuilt from the game's own bricks and art. Every window, card and
+  box is cut into a wall of the world's bricks, the text is REBOUNDED's own typeface (gold for what matters), and
+  nothing is drawn in plain lines.
+- **Call-outs** in play are a word or two now, and drop in letter by letter.
+- **Every hint shows its keys as keys**, or your pad's buttons on a pad.
+
+## What was new in 0.13.6
 
 - **Emberline's clouds** between the two screens are warm smoke now, to match its sunset.
 
