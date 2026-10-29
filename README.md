@@ -10,7 +10,7 @@ The full game is still being made. [Here's the update trailer.](https://www.yout
 ## Download and play (Windows)
 
 [Open the latest release](https://github.com/Tracedicky/AVENGIS-Rebounded-Demo/releases/latest) and download
-`AVENGIS-Rebounded-Demo-0.15.2-Setup.exe`, then run it. If you already have the demo, it updates it and keeps your
+`AVENGIS-Rebounded-Demo-0.16.0-Setup.exe`, then run it. If you already have the demo, it updates it and keeps your
 saves.
 
 Windows may show a blue "Windows protected your PC" box, because the installer isn't signed. Click **More info**,
@@ -28,17 +28,19 @@ You can also play any part on its own: the tutorial, a stage from each world, th
 and part of the Expedition. All five heroes are playable, and two people can play on one PC (co-op, versus or Twin
 Colours).
 
-## What's new in 0.15
+## What's new in 0.16
 
-- 0.15.2: the Versus tables carry Rebounded's own touches (the logo's R at the centre spot, its bricks along the boards); heroes you haven't met yet show as their own figure in shadow; a reward you put on says EQUIPPED.
-- 0.15.1: WATCH THE TRAILER opens the new update trailer.
-- Each menu is set in one of the worlds, in its bricks and under its own sky.
-- In play, the right-hand panel shows the world's three medals and how close the next one is.
-- A new look for the Clockwork Heart's chamber, and new medals.
-- The crew keep time on the Sound Test while you listen.
+- The menus come alive: every window's edge in the logo's colours with a light running round it, laid brick by brick as a menu opens, and the one you pick glows from inside.
+- Press GO on a card and it presses in, chips flying; the big headings drop in letter by letter.
+- The results arrive line by line and count up, and the score rolls up as it climbs.
+- Sounds for the changes between screens and for going back; the music dips while you pause.
+- The game pauses itself if you click away from it or a pad comes out mid-game.
+- PAD RUMBLE (OPTIONS, DISPLAY): feel every shake in your controller.
+- OPTIONS shows your settings at a glance, and RECORDS shows what's still to earn.
+- No more stutter as a stage starts.
 
-Earlier updates added the rising water, the two-screen stages, the living wardens, the new Versus modes and
-smoother changes between screens.
+Earlier updates added the rising water, the two-screen stages, the living wardens, the new Versus modes,
+smoother changes between screens, menus set in each world and the Versus tables' own touches.
 
 ## Controls
 
