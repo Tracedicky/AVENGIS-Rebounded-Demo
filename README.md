@@ -10,7 +10,7 @@ The full game is still being made. [Here's the update trailer.](https://www.yout
 ## Download and play (Windows)
 
 [Open the latest release](https://github.com/Tracedicky/AVENGIS-Rebounded-Demo/releases/latest) and download
-`AVENGIS-Rebounded-Demo-0.15.1-Setup.exe`, then run it. If you already have the demo, it updates it and keeps your
+`AVENGIS-Rebounded-Demo-0.15.2-Setup.exe`, then run it. If you already have the demo, it updates it and keeps your
 saves.
 
 Windows may show a blue "Windows protected your PC" box, because the installer isn't signed. Click **More info**,
@@ -30,6 +30,7 @@ Colours).
 
 ## What's new in 0.15
 
+- 0.15.2: the Versus tables carry Rebounded's own touches (the logo's R at the centre spot, its bricks along the boards); heroes you haven't met yet show as their own figure in shadow; a reward you put on says EQUIPPED.
 - 0.15.1: WATCH THE TRAILER opens the new update trailer.
 - Each menu is set in one of the worlds, in its bricks and under its own sky.
 - In play, the right-hand panel shows the world's three medals and how close the next one is.
