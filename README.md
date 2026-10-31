@@ -10,7 +10,7 @@ The full game is still being made. [Here's the update trailer.](https://www.yout
 ## Download and play (Windows)
 
 [Open the latest release](https://github.com/Tracedicky/AVENGIS-Rebounded-Demo/releases/latest) and download
-`AVENGIS-Rebounded-Demo-0.16.1-Setup.exe`, then run it. If you already have the demo, it updates it and keeps your
+`AVENGIS-Rebounded-Demo-0.16.2-Setup.exe`, then run it. If you already have the demo, it updates it and keeps your
 saves.
 
 Windows may show a blue "Windows protected your PC" box, because the installer isn't signed. Click **More info**,
@@ -39,6 +39,8 @@ Colours).
 - OPTIONS shows your settings at a glance, and RECORDS shows what's still to earn.
 - No more stutter as a stage starts.
 - 0.16.1: the waterfalls pour all the way down to the water below again.
+- 0.16.2: nothing floats in the backgrounds any more, the orrery casts a proper shadow, and FIRST FLIGHT can
+  always be finished (lose the ball while its power-up falls and another drops).
 
 Earlier updates added the rising water, the two-screen stages, the living wardens, the new Versus modes,
 smoother changes between screens, menus set in each world and the Versus tables' own touches.
